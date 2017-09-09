@@ -1,0 +1,16 @@
+{
+  "name": "hex_geojson",
+  "version": "1.0.0",
+  "description": "converts bbox of a region to hex geojson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chinmaya samal",
+  "license": "ISC",
+  "dependencies": {
+    "json-fs-store": "^1.0.1",
+    "turf": "^3.0.14",
+    "turf-hex-grid": "^3.0.12"
+  }
+}
