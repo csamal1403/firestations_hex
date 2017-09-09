@@ -29,6 +29,6 @@ $ python lat_lon_to_hex.py
 This will output two files which contains hex values for each lat,lng present in fire_stations_nyc_nj.csv files :-
 
 ```
-$ nyc_fire_stations_with_hex.csv
-$ nj_fire_stations_with_hex.csv
+nyc_fire_stations_with_hex.csv
+nj_fire_stations_with_hex.csv
 ```
